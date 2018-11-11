@@ -3,4 +3,4 @@
     print_r ($xml);
     $sku = $xml->sku;
     echo $sku;
-
+echo "<br>";
